@@ -4,4 +4,12 @@
 
 2. Go ahead and fix all of the errors in the application.
 
-3. In the end, I want giphys to show up in 3 separate columns, 3 per column. One giphy for each animal in the database. Columns are based on the animals class. There are 3 separate animal classes in the database.
+3. Create a new git repository to push up this code to. That is what you will be sending to me.
+
+3. In the end, I want:
+ 	* Giphys to show up in 3 separate columns, 3 per column. One giphy for each animal in the database. 
+ 		* Columns are based on the animals class. 
+ 		* There are 3 separate animal classes in the database.
+ 	* For the application to run smoothly when I type in ```npm start```
+
+4. Dont copy and paste code from previous projects
